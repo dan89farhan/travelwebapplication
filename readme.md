@@ -43,6 +43,7 @@ Admin’s features:
   24. Send bank details to the customer, agent or supplier at one click
 
 Process:
+
    Create a User Account
   
    Install the database on the server.
